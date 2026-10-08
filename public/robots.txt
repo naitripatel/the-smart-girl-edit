@@ -1,0 +1,7 @@
+# robots.txt for The Smart Girl Edit
+User-agent: *
+Allow: /
+Disallow: /*?search=
+Disallow: /*?q=
+
+Sitemap: https://thesmartgirledit.com/sitemap.xml

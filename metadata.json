@@ -1,0 +1,6 @@
+{
+  "name": "The Smart Girl Edit",
+  "description": "Be smarter about the things you love. An editorial lifestyle magazine for women navigating beauty, style, money, digital life, and everyday choices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
